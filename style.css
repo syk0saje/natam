@@ -2,6 +2,8 @@
 
 body { background-color: #AAF; }
 
+form { display: inline; }
+
 div.data { display: none; }
 
 div#container {
